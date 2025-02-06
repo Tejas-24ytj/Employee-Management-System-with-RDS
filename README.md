@@ -58,3 +58,12 @@ python manage.py migrate
 ```bash
   python manage.py runserver
 ```
+
+![Image](https://github.com/user-attachments/assets/5f7675e4-df4d-41ab-ac64-ced5deac06bc)
+
+![Image](https://github.com/user-attachments/assets/bb7fc603-011e-4183-825a-7170e758c784)
+
+![Image](https://github.com/user-attachments/assets/f8a73b5c-04af-4d9a-8892-e8bf5ecfcc8d)
+
+![Image](https://github.com/user-attachments/assets/1ae222e1-ec87-4382-87cf-b6b8604ed591)
+
