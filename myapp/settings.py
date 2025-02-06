@@ -86,10 +86,10 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         # 'NAME': BASE_DIR / 'db.sqlite3',
-        'NAME': 'newemp', # add you database name (schema name eg: newemp)
-        'USER': 'root',
-        'PASSWORD': 'root',
-        'HOST': 'localhost',
+        'NAME': 'database2', # add you database name (schema name eg: newemp)
+        'USER': 'admin',
+        'PASSWORD': 'G9h!kLm2',
+        'HOST': 'database-2.cf04c4c2avip.ap-southeast-1.rds.amazonaws.com',
         'PORT': '3306'
     }
 }
