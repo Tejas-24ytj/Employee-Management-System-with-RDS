@@ -59,11 +59,13 @@ python manage.py migrate
   python manage.py runserver
 ```
 
-![Image](https://github.com/user-attachments/assets/5f7675e4-df4d-41ab-ac64-ced5deac06bc)
+![Image](https://github.com/user-attachments/assets/87420ed1-3188-411e-b9ee-ab152d4f8872)
 
-![Image](https://github.com/user-attachments/assets/bb7fc603-011e-4183-825a-7170e758c784)
+![Image](https://github.com/user-attachments/assets/89041802-e739-4a81-b52a-28a7cc06d392)
 
-![Image](https://github.com/user-attachments/assets/f8a73b5c-04af-4d9a-8892-e8bf5ecfcc8d)
+![Image](https://github.com/user-attachments/assets/f5d5d7b5-633d-4208-9d92-65447d081e4a)
 
-![Image](https://github.com/user-attachments/assets/1ae222e1-ec87-4382-87cf-b6b8604ed591)
+![Image](https://github.com/user-attachments/assets/5116466b-b176-49b4-b8ad-2f6ad7c85bea)
+
+
 
