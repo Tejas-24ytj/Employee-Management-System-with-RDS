@@ -30,6 +30,9 @@ This requires [Python](https://www.python.org/) v3.8+ and [Django](https://www.d
 ```bash
   pip install -r requirements.txt
 ```
+```bash
+  python app.py 
+```
 
 ### Add your database name (change settings.py file)
 
@@ -66,6 +69,7 @@ python manage.py migrate
 ![Image](https://github.com/user-attachments/assets/f5d5d7b5-633d-4208-9d92-65447d081e4a)
 
 ![Image](https://github.com/user-attachments/assets/5116466b-b176-49b4-b8ad-2f6ad7c85bea)
+
 
 
 
